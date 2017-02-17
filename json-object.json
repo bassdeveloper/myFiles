@@ -1,0 +1,2272 @@
+{
+  "nodes": [
+    {
+      "id": "ExxonMobil | Company",
+      "group": 1
+    },
+    {
+      "id": "Article2",
+      "group": 2
+    },
+    {
+      "id": "Article3",
+      "group": 3
+    },
+    {
+      "id": "Article4",
+      "group": 4
+    },
+    {
+      "id": "Article5",
+      "group": 5
+    },
+    {
+      "id": "Article6",
+      "group": 6
+    },
+    {
+      "id": "Article7",
+      "group": 7
+    },
+    {
+      "id": "Article8",
+      "group": 8
+    },
+    {
+      "id": "Article9",
+      "group": 9
+    },
+    {
+      "id": "Article10",
+      "group": 10
+    },
+    {
+      "id": "Article11",
+      "group": 11
+    },
+    {
+      "id": "Article12",
+      "group": 12
+    },
+    {
+      "id": "Article13",
+      "group": 13
+    },
+    {
+      "id": "Article14",
+      "group": 14
+    },
+    {
+      "id": "Article15",
+      "group": 15
+    },
+    {
+      "id": "Article16",
+      "group": 16
+    },
+    {
+      "id": "Article17",
+      "group": 17
+    },
+    {
+      "id": "Article18",
+      "group": 18
+    },
+    {
+      "id": "Article19",
+      "group": 19
+    },
+    {
+      "id": "Article20",
+      "group": 20
+    },
+    {
+      "id": "Article21",
+      "group": 21
+    },
+    {
+      "id": "Billings",
+      "group": 2
+    },
+    {
+      "id": "ExxonMobil",
+      "group": 20
+    },
+    {
+      "id": "Billings Gazette",
+      "group": 2
+    },
+    {
+      "id": "Reuters",
+      "group": 2
+    },
+    {
+      "id": "60,000-barrel",
+      "group": 2
+    },
+    {
+      "id": "$500 million",
+      "group": 2
+    },
+    {
+      "id": "$700 million",
+      "group": 2
+    },
+    {
+      "id": "plant manager",
+      "group": 3
+    },
+    {
+      "id": "ExxonMobil Lubricants & Petroleum Specialties Co.",
+      "group": 3
+    },
+    {
+      "id": "ExxonMobil Chemical Co",
+      "group": 13
+    },
+    {
+      "id": "ExxonMobil Fuels",
+      "group": 3
+    },
+    {
+      "id": "ExxonMobil Global Services Co.",
+      "group": 12
+    },
+    {
+      "id": "vice-president",
+      "group": 12
+    },
+    {
+      "id": "president",
+      "group": 12
+    },
+    {
+      "id": "Milton",
+      "group": 3
+    },
+    {
+      "id": "regional director",
+      "group": 3
+    },
+    {
+      "id": "general manager",
+      "group": 3
+    },
+    {
+      "id": "Specialties Marketing Co",
+      "group": 3
+    },
+    {
+      "id": "operations manager",
+      "group": 3
+    },
+    {
+      "id": "Exxon Chemical",
+      "group": 3
+    },
+    {
+      "id": "Baton Rouge",
+      "group": 3
+    },
+    {
+      "id": "HOUSTON",
+      "group": 21
+    },
+    {
+      "id": "North America",
+      "group": 17
+    },
+    {
+      "id": "Fawley",
+      "group": 3
+    },
+    {
+      "id": "Basic Chemicals",
+      "group": 3
+    },
+    {
+      "id": "UK",
+      "group": 3
+    },
+    {
+      "id": "Rockefeller Family Fund",
+      "group": 4
+    },
+    {
+      "id": "Rockefellers",
+      "group": 4
+    },
+    {
+      "id": "energy giant",
+      "group": 4
+    },
+    {
+      "id": "climate change",
+      "group": 4
+    },
+    {
+      "id": "John D",
+      "group": 4
+    },
+    {
+      "id": "US",
+      "group": 17
+    },
+    {
+      "id": "Rawstory",
+      "group": 4
+    },
+    {
+      "id": "Motley Fool",
+      "group": 5
+    },
+    {
+      "id": "EOG Resources",
+      "group": 5
+    },
+    {
+      "id": "30 days",
+      "group": 5
+    },
+    {
+      "id": "Renewable Energy Group",
+      "group": 6
+    },
+    {
+      "id": "ExxonMobil Research & Engineering Co.",
+      "group": 6
+    },
+    {
+      "id": "Ames",
+      "group": 6
+    },
+    {
+      "id": "Iowa",
+      "group": 6
+    },
+    {
+      "id": "Life Sciences",
+      "group": 6
+    },
+    {
+      "id": "ExxonMobil Corp.",
+      "group": 18
+    },
+    {
+      "id": "OAO Rosneft",
+      "group": 7
+    },
+    {
+      "id": "Mozambiques Institute of National Petroleum",
+      "group": 7
+    },
+    {
+      "id": "Mozambique",
+      "group": 7
+    },
+    {
+      "id": "Zambezi Delta",
+      "group": 7
+    },
+    {
+      "id": "Angoche basin",
+      "group": 7
+    },
+    {
+      "id": "OGJ Online",
+      "group": 17
+    },
+    {
+      "id": "76,800 sq km",
+      "group": 7
+    },
+    {
+      "id": "Damar field",
+      "group": 8
+    },
+    {
+      "id": "Malaysia",
+      "group": 8
+    },
+    {
+      "id": "natural gas production",
+      "group": 8
+    },
+    {
+      "id": "Malaysia Marine & Heavy Engineering Sdn",
+      "group": 8
+    },
+    {
+      "id": "ExxonMobil Exploration",
+      "group": 8
+    },
+    {
+      "id": "Damar",
+      "group": 8
+    },
+    {
+      "id": "Petronas Carigali Sdn",
+      "group": 8
+    },
+    {
+      "id": "Petronas Carigali",
+      "group": 8
+    },
+    {
+      "id": "peninsular Malaysia",
+      "group": 8
+    },
+    {
+      "id": "Production Malaysia Inc.",
+      "group": 8
+    },
+    {
+      "id": "Telok",
+      "group": 8
+    },
+    {
+      "id": "partner",
+      "group": 8
+    },
+    {
+      "id": "50%",
+      "group": 19
+    },
+    {
+      "id": "200 km",
+      "group": 8
+    },
+    {
+      "id": "22-km",
+      "group": 8
+    },
+    {
+      "id": "55 m",
+      "group": 8
+    },
+    {
+      "id": "ExxonMobil Upstream Research Co.",
+      "group": 20
+    },
+    {
+      "id": "Weatherford International Ltd.",
+      "group": 9
+    },
+    {
+      "id": "Rosneft",
+      "group": 17
+    },
+    {
+      "id": "Kara Sea",
+      "group": 17
+    },
+    {
+      "id": "Black Sea",
+      "group": 17
+    },
+    {
+      "id": "Russian Arctic",
+      "group": 10
+    },
+    {
+      "id": "West Siberia",
+      "group": 10
+    },
+    {
+      "id": "Arctic Research Center",
+      "group": 10
+    },
+    {
+      "id": "Chukchi Sea",
+      "group": 10
+    },
+    {
+      "id": "Laptev Sea",
+      "group": 10
+    },
+    {
+      "id": "Tuapsemorneftegaz SARL",
+      "group": 10
+    },
+    {
+      "id": "Karmorneftegaz SARL",
+      "group": 10
+    },
+    {
+      "id": "33.33%",
+      "group": 11
+    },
+    {
+      "id": "66.67%",
+      "group": 11
+    },
+    {
+      "id": "600,000 sq km",
+      "group": 10
+    },
+    {
+      "id": "$200 million",
+      "group": 11
+    },
+    {
+      "id": "$250 million",
+      "group": 11
+    },
+    {
+      "id": "$3.2 billion",
+      "group": 10
+    },
+    {
+      "id": "10 years",
+      "group": 10
+    },
+    {
+      "id": "49%",
+      "group": 10
+    },
+    {
+      "id": "51%",
+      "group": 10
+    },
+    {
+      "id": "Continental Shelf Development",
+      "group": 11
+    },
+    {
+      "id": "Arctic Research & Design Center",
+      "group": 11
+    },
+    {
+      "id": "Moscow",
+      "group": 11
+    },
+    {
+      "id": "ExxonMobil Production Co.",
+      "group": 12
+    },
+    {
+      "id": "ExxonMobil Gas",
+      "group": 12
+    },
+    {
+      "id": "ExxonMobil Development Co.",
+      "group": 12
+    },
+    {
+      "id": "ExxonMobil Upstream Ventures",
+      "group": 12
+    },
+    {
+      "id": "Power Marketing Co.",
+      "group": 12
+    },
+    {
+      "id": "Mobil North Sea Ltd.",
+      "group": 12
+    },
+    {
+      "id": "Power Marketing Company",
+      "group": 12
+    },
+    {
+      "id": "Tom) Walters",
+      "group": 12
+    },
+    {
+      "id": "Mobil Corp.",
+      "group": 12
+    },
+    {
+      "id": "Imperial Oil Ltd.",
+      "group": 13
+    },
+    {
+      "id": "chief executive officer",
+      "group": 13
+    },
+    {
+      "id": "Exxon USA",
+      "group": 12
+    },
+    {
+      "id": "Africa",
+      "group": 12
+    },
+    {
+      "id": "Texas",
+      "group": 17
+    },
+    {
+      "id": "chairman",
+      "group": 13
+    },
+    {
+      "id": "executive",
+      "group": 12
+    },
+    {
+      "id": "Kruger",
+      "group": 12
+    },
+    {
+      "id": "T.R.",
+      "group": 12
+    },
+    {
+      "id": "R.M.",
+      "group": 12
+    },
+    {
+      "id": "R.M. Kruger",
+      "group": 13
+    },
+    {
+      "id": "ExxonMobil Production Co",
+      "group": 13
+    },
+    {
+      "id": "Imperial Oils",
+      "group": 13
+    },
+    {
+      "id": "senior vice-president",
+      "group": 13
+    },
+    {
+      "id": "Calgary",
+      "group": 13
+    },
+    {
+      "id": "69.9%",
+      "group": 13
+    },
+    {
+      "id": "Hebron",
+      "group": 14
+    },
+    {
+      "id": "crude oil",
+      "group": 14
+    },
+    {
+      "id": "ExxonMobil Development Co",
+      "group": 17
+    },
+    {
+      "id": "ExxonMobil Canada Properties",
+      "group": 14
+    },
+    {
+      "id": "Oil production",
+      "group": 14
+    },
+    {
+      "id": "Newfoundland",
+      "group": 14
+    },
+    {
+      "id": "Nalcor Energy Oil",
+      "group": 14
+    },
+    {
+      "id": "Jeanne d'Arc basin",
+      "group": 14
+    },
+    {
+      "id": "Chevron Canada Ltd.",
+      "group": 14
+    },
+    {
+      "id": "Pres. Neil W. Duffin",
+      "group": 14
+    },
+    {
+      "id": "Canada",
+      "group": 14
+    },
+    {
+      "id": "Statoil Canada",
+      "group": 14
+    },
+    {
+      "id": "Bull Arm",
+      "group": 14
+    },
+    {
+      "id": "Suncor Energy Inc.",
+      "group": 14
+    },
+    {
+      "id": "St. Johns",
+      "group": 14
+    },
+    {
+      "id": "$14 billion",
+      "group": 14
+    },
+    {
+      "id": "200 miles",
+      "group": 14
+    },
+    {
+      "id": "19 miles",
+      "group": 14
+    },
+    {
+      "id": "5 years",
+      "group": 14
+    },
+    {
+      "id": "300 ft",
+      "group": 14
+    },
+    {
+      "id": "22.7%",
+      "group": 14
+    },
+    {
+      "id": "26.7%",
+      "group": 14
+    },
+    {
+      "id": "4.9%",
+      "group": 14
+    },
+    {
+      "id": "9.7%",
+      "group": 14
+    },
+    {
+      "id": "36%",
+      "group": 14
+    },
+    {
+      "id": "ExxonMobil Upstream Research",
+      "group": 15
+    },
+    {
+      "id": "Weatherford International Ltd",
+      "group": 15
+    },
+    {
+      "id": "Weatherford",
+      "group": 15
+    },
+    {
+      "id": "MazeFlo",
+      "group": 15
+    },
+    {
+      "id": "2 years",
+      "group": 15
+    },
+    {
+      "id": "ExxonMobil Yugen Kaisha",
+      "group": 16
+    },
+    {
+      "id": "ExxonMobil Research & Engineering",
+      "group": 16
+    },
+    {
+      "id": "Japan",
+      "group": 16
+    },
+    {
+      "id": "TonenGeneral Sekiyu",
+      "group": 16
+    },
+    {
+      "id": "Japan Butyl Co",
+      "group": 16
+    },
+    {
+      "id": "ExxonMobils",
+      "group": 16
+    },
+    {
+      "id": "International Marine",
+      "group": 16
+    },
+    {
+      "id": "Steven Poruban",
+      "group": 16
+    },
+    {
+      "id": "Senior Editor",
+      "group": 16
+    },
+    {
+      "id": "marketing and sales",
+      "group": 16
+    },
+    {
+      "id": "The deal",
+      "group": 16
+    },
+    {
+      "id": "market development",
+      "group": 16
+    },
+    {
+      "id": "$3.9 billion",
+      "group": 16
+    },
+    {
+      "id": "Russias Rosneft",
+      "group": 17
+    },
+    {
+      "id": "oil companies",
+      "group": 17
+    },
+    {
+      "id": "Eric Watkins",
+      "group": 17
+    },
+    {
+      "id": "Rosneft Pres. Eduard Khudainatov",
+      "group": 17
+    },
+    {
+      "id": "Oil Diplomacy Editor",
+      "group": 17
+    },
+    {
+      "id": "Russia",
+      "group": 17
+    },
+    {
+      "id": "Rex Tillerson",
+      "group": 17
+    },
+    {
+      "id": "LOS ANGELES",
+      "group": 17
+    },
+    {
+      "id": "chairman and chief executive officer",
+      "group": 17
+    },
+    {
+      "id": "BP",
+      "group": 17
+    },
+    {
+      "id": "oil fields",
+      "group": 17
+    },
+    {
+      "id": "Pres. Neil Duffin",
+      "group": 17
+    },
+    {
+      "id": "TNK-BP",
+      "group": 17
+    },
+    {
+      "id": "Siberia",
+      "group": 17
+    },
+    {
+      "id": "Tuapse",
+      "group": 17
+    },
+    {
+      "id": "Mexico",
+      "group": 17
+    },
+    {
+      "id": "Design Center for Offshore Developments",
+      "group": 17
+    },
+    {
+      "id": "St. Petersburg",
+      "group": 17
+    },
+    {
+      "id": "hippalus@yahoo.com",
+      "group": 17
+    },
+    {
+      "id": "126,000 sq km",
+      "group": 17
+    },
+    {
+      "id": "Nippon Steel",
+      "group": 18
+    },
+    {
+      "id": "ExxonMobil Chemical Co.",
+      "group": 19
+    },
+    {
+      "id": "Industrielle des Polyethylenes de Normandie",
+      "group": 19
+    },
+    {
+      "id": "Basell Polyolefins Co.",
+      "group": 19
+    },
+    {
+      "id": "BASF AG",
+      "group": 19
+    },
+    {
+      "id": "Notre Dame de Gravenchon",
+      "group": 19
+    },
+    {
+      "id": "Shell Chemicals Ltd.",
+      "group": 19
+    },
+    {
+      "id": "Germany",
+      "group": 19
+    },
+    {
+      "id": "the deal",
+      "group": 19
+    },
+    {
+      "id": "France",
+      "group": 19
+    },
+    {
+      "id": "Skanska Whessoe",
+      "group": 20
+    },
+    {
+      "id": "20%",
+      "group": 20
+    },
+    {
+      "id": "ExxonMobil Chemical",
+      "group": 21
+    },
+    {
+      "id": "Chevron Phillips Chemical",
+      "group": 21
+    },
+    {
+      "id": "Chevron Phillips Chemical Co.",
+      "group": 21
+    },
+    {
+      "id": "Chevron Corp.",
+      "group": 21
+    },
+    {
+      "id": "Phillips Petroleum Co",
+      "group": 21
+    },
+    {
+      "id": "Dow Chemical Co.",
+      "group": 21
+    },
+    {
+      "id": "Houston US District Court",
+      "group": 21
+    },
+    {
+      "id": "OGJ Online Staff",
+      "group": 21
+    },
+    {
+      "id": "Univation",
+      "group": 21
+    }
+  ],
+  "links": [
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article2",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article3",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article4",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article5",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article6",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article7",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article8",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article9",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article10",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article11",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article12",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article13",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article14",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article15",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article16",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article17",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article18",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article19",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article20",
+      "value": 1
+    },
+    {
+      "source": "ExxonMobil | Company",
+      "target": "Article21",
+      "value": 1
+    },
+    {
+      "source": "Article2",
+      "target": "Billings",
+      "value": 2
+    },
+    {
+      "source": "Article2",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article2",
+      "target": "Billings Gazette",
+      "value": 2
+    },
+    {
+      "source": "Article2",
+      "target": "Reuters",
+      "value": 2
+    },
+    {
+      "source": "Article2",
+      "target": "60,000-barrel",
+      "value": 2
+    },
+    {
+      "source": "Article2",
+      "target": "$500 million",
+      "value": 2
+    },
+    {
+      "source": "Article2",
+      "target": "$700 million",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "plant manager",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "ExxonMobil Lubricants & Petroleum Specialties Co.",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "ExxonMobil Chemical Co",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "ExxonMobil Fuels",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "ExxonMobil Global Services Co.",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "vice-president",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "president",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "Milton",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "regional director",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "general manager",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "Specialties Marketing Co",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "operations manager",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "Exxon Chemical",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "Baton Rouge",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "North America",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "Fawley",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "Basic Chemicals",
+      "value": 2
+    },
+    {
+      "source": "Article3",
+      "target": "UK",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "Rockefeller Family Fund",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "Rockefellers",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "energy giant",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "climate change",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "John D",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "US",
+      "value": 2
+    },
+    {
+      "source": "Article4",
+      "target": "Rawstory",
+      "value": 2
+    },
+    {
+      "source": "Article5",
+      "target": "Motley Fool",
+      "value": 2
+    },
+    {
+      "source": "Article5",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article5",
+      "target": "EOG Resources",
+      "value": 2
+    },
+    {
+      "source": "Article5",
+      "target": "30 days",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "Renewable Energy Group",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "ExxonMobil Research & Engineering Co.",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "Ames",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "US",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "Iowa",
+      "value": 2
+    },
+    {
+      "source": "Article6",
+      "target": "Life Sciences",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "OAO Rosneft",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "Mozambiques Institute of National Petroleum",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "Mozambique",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "Zambezi Delta",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "Angoche basin",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "OGJ Online",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article7",
+      "target": "76,800 sq km",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Damar field",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Malaysia",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "natural gas production",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Malaysia Marine & Heavy Engineering Sdn",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "ExxonMobil Exploration",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Damar",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Petronas Carigali Sdn",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Petronas Carigali",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "peninsular Malaysia",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Production Malaysia Inc.",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "Telok",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "partner",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "OGJ Online",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "50%",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "200 km",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "22-km",
+      "value": 2
+    },
+    {
+      "source": "Article8",
+      "target": "55 m",
+      "value": 2
+    },
+    {
+      "source": "Article9",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article9",
+      "target": "ExxonMobil Upstream Research Co.",
+      "value": 2
+    },
+    {
+      "source": "Article9",
+      "target": "Weatherford International Ltd.",
+      "value": 2
+    },
+    {
+      "source": "Article9",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Rosneft",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Kara Sea",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Black Sea",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Russian Arctic",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "West Siberia",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "OGJ Online",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Arctic Research Center",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Chukchi Sea",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Laptev Sea",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Tuapsemorneftegaz SARL",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "Karmorneftegaz SARL",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "33.33%",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "66.67%",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "600,000 sq km",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "$200 million",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "$250 million",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "$3.2 billion",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "10 years",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "49%",
+      "value": 2
+    },
+    {
+      "source": "Article10",
+      "target": "51%",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "Continental Shelf Development",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "Arctic Research & Design Center",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "Rosneft",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "Kara Sea",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "Moscow",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "$200 million",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "$250 million",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "33.33%",
+      "value": 2
+    },
+    {
+      "source": "Article11",
+      "target": "66.67%",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "ExxonMobil Production Co.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "president",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "ExxonMobil Gas",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "ExxonMobil Development Co.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "vice-president",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "ExxonMobil Upstream Ventures",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "ExxonMobil Global Services Co.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Power Marketing Co.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Mobil North Sea Ltd.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Power Marketing Company",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Tom) Walters",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Mobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Imperial Oil Ltd.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "chief executive officer",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Exxon USA",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Africa",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Texas",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "chairman",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "executive",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "Kruger",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "T.R.",
+      "value": 2
+    },
+    {
+      "source": "Article12",
+      "target": "R.M.",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "R.M. Kruger",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "Imperial Oil Ltd.",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "ExxonMobil Chemical Co",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "ExxonMobil Production Co",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "Imperial Oils",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "senior vice-president",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "chief executive officer",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "chairman",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "Calgary",
+      "value": 2
+    },
+    {
+      "source": "Article13",
+      "target": "69.9%",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Hebron",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "crude oil",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "ExxonMobil Development Co",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "ExxonMobil Canada Properties",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Oil production",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Newfoundland",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Nalcor Energy Oil",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Jeanne d'Arc basin",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Chevron Canada Ltd.",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Pres. Neil W. Duffin",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Canada",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Statoil Canada",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Bull Arm",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "Suncor Energy Inc.",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "St. Johns",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "$14 billion",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "200 miles",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "19 miles",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "5 years",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "300 ft",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "22.7%",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "26.7%",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "4.9%",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "9.7%",
+      "value": 2
+    },
+    {
+      "source": "Article14",
+      "target": "36%",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "ExxonMobil Upstream Research Co.",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "ExxonMobil Upstream Research",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "Weatherford International Ltd",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "Weatherford",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "MazeFlo",
+      "value": 2
+    },
+    {
+      "source": "Article15",
+      "target": "2 years",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "ExxonMobil Yugen Kaisha",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "ExxonMobil Research & Engineering",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "Japan",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "TonenGeneral Sekiyu",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "Japan Butyl Co",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "ExxonMobils",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "International Marine",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "Steven Poruban",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "Senior Editor",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "marketing and sales",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "The deal",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "market development",
+      "value": 2
+    },
+    {
+      "source": "Article16",
+      "target": "$3.9 billion",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Russias Rosneft",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "ExxonMobil Development Co",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Rosneft",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Black Sea",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "oil companies",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Eric Watkins",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Rosneft Pres. Eduard Khudainatov",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Oil Diplomacy Editor",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Rosneft",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Russia",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Kara Sea",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Rex Tillerson",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "LOS ANGELES",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "chairman and chief executive officer",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "BP",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "oil fields",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Pres. Neil Duffin",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "TNK-BP",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Siberia",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "OGJ Online",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "North America",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Tuapse",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Texas",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "US",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Mexico",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "Design Center for Offshore Developments",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "St. Petersburg",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "hippalus@yahoo.com",
+      "value": 2
+    },
+    {
+      "source": "Article17",
+      "target": "126,000 sq km",
+      "value": 2
+    },
+    {
+      "source": "Article18",
+      "target": "ExxonMobil Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article18",
+      "target": "ExxonMobil Upstream Research Co.",
+      "value": 2
+    },
+    {
+      "source": "Article18",
+      "target": "Nippon Steel",
+      "value": 2
+    },
+    {
+      "source": "Article18",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article18",
+      "target": "50%",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "ExxonMobil Chemical Co.",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "Industrielle des Polyethylenes de Normandie",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "Basell Polyolefins Co.",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "BASF AG",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "Notre Dame de Gravenchon",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "Shell Chemicals Ltd.",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "Germany",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "the deal",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "France",
+      "value": 2
+    },
+    {
+      "source": "Article19",
+      "target": "50%",
+      "value": 2
+    },
+    {
+      "source": "Article20",
+      "target": "ExxonMobil",
+      "value": 2
+    },
+    {
+      "source": "Article20",
+      "target": "Skanska Whessoe",
+      "value": 2
+    },
+    {
+      "source": "Article20",
+      "target": "ExxonMobil Upstream Research Co.",
+      "value": 2
+    },
+    {
+      "source": "Article20",
+      "target": "20%",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "ExxonMobil Chemical",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "Chevron Phillips Chemical",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "Chevron Phillips Chemical Co.",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "Chevron Corp.",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "Phillips Petroleum Co",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "Dow Chemical Co.",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "Houston US District Court",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "HOUSTON",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "OGJ Online Staff",
+      "value": 2
+    },
+    {
+      "source": "Article21",
+      "target": "Univation",
+      "value": 2
+    }
+  ]
+}
